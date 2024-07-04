@@ -1,2 +1,2 @@
 # Sample-Portfolio
-This is a sample Frontend Portfolio design 
+This is a sample Frontend Portfolio design.
